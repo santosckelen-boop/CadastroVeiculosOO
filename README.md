@@ -87,7 +87,6 @@ Encerra o sistema.
 - `do...while`;
 - `LocalDate`.
 ```
-Trabalho para a disciplinas de Programação Orientada a Objetos.
-RA: 1102339 - Kélen Camargo dos Santos
+
 ## RA: 1102339 - Kélen Camargo dos Santos
-Atividade desenvolvida para a disciplina de Organizacao e Abstracao na Programacao / Programacao Orientada a Objetos.olha uma opção:
+Atividade desenvolvida para a disciplina de Programação Orientada a Objetos.
