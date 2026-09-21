@@ -91,6 +91,6 @@ Encerra o sistema.
 ## GRUPO
 RA: 1102339 - Kélen Camargo dos Santos
 RA: 1140047 - Caroline Russo Zilio
-RA: 1139410 - Vitória Drechsler Colega
+RA: 1139410 - Vitória Drechsler
 
 Atividade desenvolvida para a disciplina de Programação Orientada a Objetos.
